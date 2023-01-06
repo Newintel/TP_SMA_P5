@@ -1,6 +1,7 @@
 import random
-import core
-from boids.boid import Boid
+
+from p5 import core
+from p5.boids.boid import Boid
 
 
 def setup():

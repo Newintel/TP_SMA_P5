@@ -6,7 +6,8 @@ from random import *
 
 import pygame
 
-import core
+from p5 import core
+
 
 title = "Fenetre"
 bgColor = (0, 0, 0)

@@ -1,7 +1,7 @@
 import random
 from pygame.math import Vector2
 
-import core
+from p5 import core
 
 colorFamily=[(255,0,0),(0,255,0),(0,0,255)]
 class Boid:
